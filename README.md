@@ -1,2 +1,2 @@
 # Aplikasiku
-Aplikasi pencarian suatu data dengan menampilkan data tersebut di sebuah map.
+Application search data by displaying the data in a Maps

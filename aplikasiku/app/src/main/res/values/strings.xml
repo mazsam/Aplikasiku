@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">aplikasiku</string>
+    <string name="clamp_latlng_adelaide">Button A</string>
+    <string name="clamp_latlng_pacific">Button B</string>
+    <string name="clamp_latlng_reset">Cari</string>
+    <string name="move_the_camera">Move Camera</string>
+</resources>
